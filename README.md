@@ -1,5 +1,4 @@
 # Aurora-path
-# Aurora-path
 
 Aurora-path is a small Python project that generates smooth spiral-like coordinates and renders them as ASCII art.
 
